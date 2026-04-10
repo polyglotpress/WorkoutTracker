@@ -25,8 +25,7 @@ EFCoreExample/
 
 ## Features ##
 - Add users with name and email
-- Add multiple posts per user
-- Display user post counts
+- Add multiple exercises per user
 - Use service classes to separate database logic from Program.cs
 - Fully migration-friendly with EF Core
 - Prepared for easy upgrade to a web app / full-stack app
@@ -40,10 +39,10 @@ EFCoreExample/
 
 1. Clone the project:
 
-` git clone https://github.com/polyglotpress/EFCoreWorkoutTracker.git `
+` git clone https://github.com/polyglotpress/WorkoutTracker.git `
 
 2. Open the project in VSCode and in the terminal paste:
-`cd EFCoreWorkoutTracker`
+`cd WorkoutTracker`
 
 3. Create an appsettings.json file and paste the following:
 
